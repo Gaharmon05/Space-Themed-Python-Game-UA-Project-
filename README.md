@@ -1,5 +1,3 @@
-# Asteroid Mining and Alien Duel Game-
-
 # Mining and Alien Dueling Game
 
 A space-themed game I built in Python for my business programming class (MIS 221) at the University of Alabama in Spring 2026. You start with 50 energy crystals and spend them on two mini-games. Get to 300 crystals and you win. Hit 0 and the alien eats you for breakfast.
