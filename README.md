@@ -1,1 +1,1 @@
-# Space-Themed-Python-Game-UA-Project-
+# Asteroid Mining and ALien Duel Game-
